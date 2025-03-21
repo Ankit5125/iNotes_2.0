@@ -52,13 +52,12 @@ I’d love to hear your feedback, suggestions, or any thoughts on improving iNot
 
 --- 
 
-## 📸 **Images**
-![1742576388880](https://github.com/user-attachments/assets/66c31233-b28c-4eb3-a936-4f9167deb4c7)
-![1742576388893](https://github.com/user-attachments/assets/20a16335-b6bb-43cf-93ef-d75686ae5469)
-![1742576388901](https://github.com/user-attachments/assets/37fc7e1e-eef9-4efc-8aab-92a4a7ec3765)
-![1742576388886](https://github.com/user-attachments/assets/5ea83cb5-a79b-4973-92c6-764476860a5c)
-![1742576388917](https://github.com/user-attachments/assets/15b50a08-80c9-4a6e-95ee-66019a1e2fbb)
-![1742576388909](https://github.com/user-attachments/assets/a9fb7c46-314d-445f-9852-28cfd38d8138)
-![1742576388873](https://github.com/user-attachments/assets/acd3ddab-330d-4799-b6e6-0e4b7b31a3b9)
-![1742576388925](https://github.com/user-attachments/assets/28249ef5-eaf2-44be-a0ef-409e092bac5a)
-
+## 📸 **Screenshots**
+<img src="https://github.com/user-attachments/assets/66c31233-b28c-4eb3-a936-4f9167deb4c7" width="300">  
+<img src="https://github.com/user-attachments/assets/20a16335-b6bb-43cf-93ef-d75686ae5469" width="300">  
+<img src="https://github.com/user-attachments/assets/37fc7e1e-eef9-4efc-8aab-92a4a7ec3765" width="300">  
+<img src="https://github.com/user-attachments/assets/5ea83cb5-a79b-4973-92c6-764476860a5c" width="300">  
+<img src="https://github.com/user-attachments/assets/15b50a08-80c9-4a6e-95ee-66019a1e2fbb" width="300">  
+<img src="https://github.com/user-attachments/assets/a9fb7c46-314d-445f-9852-28cfd38d8138" width="300">  
+<img src="https://github.com/user-attachments/assets/acd3ddab-330d-4799-b6e6-0e4b7b31a3b9" width="300">  
+<img src="https://github.com/user-attachments/assets/28249ef5-eaf2-44be-a0ef-409e092bac5a" width="300">  
